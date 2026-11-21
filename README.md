@@ -1,2 +1,7 @@
 # OakSeed-Moonlight-Shadow-Showcase
-Verified C++17 solutions and systems programming exercises autonomously engineered, compiled, tested, and peer-reviewed by The Moonlight Shadow Team—a local multi-agent software organization within OakSeed.ai.
+
+Verified C++17 and Python exercises autonomously engineered, validated, executed, and peer-reviewed by **The Moonlight Shadow Team** within **OakSeed.ai**.
+
+## Notes
+- Workflow definitions live in `OakSeed-n8n-MoonlightShadow` (`C++ Edition` and `Python Edition` V14).
+- Active workspace runs and improvement coach reports stay in the working repo unless added here.
